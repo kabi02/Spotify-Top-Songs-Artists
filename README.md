@@ -1,7 +1,7 @@
 # Spotify Top Songs Artists
 A data analysis project based on an open-source dataset of Spotify's Top 50 Songs across different countries.
 ## Overview
-This project made use of various data analysis steps such as data gathering, data exploration, data cleaning and manipulation, and data visualization. The Jupyter notebook file, the cleaned dataset, as well as the Power BI PBIX file are all provided within this repository. I didn't get the chance to include a shareable link to the dashboard since the free version of Power BI Desktop has no means of sharing dashboards online as far as I know.
+This project made use of various data analysis steps such as data gathering, data exploration, data cleaning and manipulation, and data visualization. The Jupyter notebook file, as well as the Power BI PBIX file are all provided within this repository. I didn't get the chance to include the cleaned dataset since it's too large for github, and the shareable link to the dashboard since the free version of Power BI Desktop has no means of sharing dashboards online as far as I know.
 ## Tools
 This analysis made use of Python with the Pandas library for data exploration and data cleaning; since the dataset used is too large for Excel to handle, and Power BI for data visualization and some dataset modification, such as adding calculated columns.
 ## Objectives
